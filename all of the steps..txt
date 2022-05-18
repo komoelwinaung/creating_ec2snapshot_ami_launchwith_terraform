@@ -1,0 +1,9 @@
+Testing Env: Ubuntu, Terraform, Visual Studio Code, AWS US-east region
+
+First, we will need to make sure AWS cli, terraform configuration.
+
+Second, data collect from required env like ec2 volume id, snapshot and edit with your suitable env.
+
+Third, terraform init, validate, plan and apply.
+
+That's it. Thanks!
